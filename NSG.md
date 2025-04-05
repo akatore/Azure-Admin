@@ -273,3 +273,9 @@ And that all the NICs are associtated to this NSG,
 ![image](https://github.com/user-attachments/assets/1a57b782-1856-4547-ba37-5bbe085558cf)
 
 
+## Head to the NSG and add a Inbound rule for RDP inbound access to port 3389 form any source and any destination.
+Inbound Security rules -> Add rule
+![image](https://github.com/user-attachments/assets/ec24038e-e74e-4815-bc31-f10979ff229c)
+
+![image](https://github.com/user-attachments/assets/730edda4-f9f1-4d0b-baa6-f6d21ce8163b)
+
