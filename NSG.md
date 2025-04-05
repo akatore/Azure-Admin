@@ -279,3 +279,4 @@ Inbound Security rules -> Add rule
 
 ![image](https://github.com/user-attachments/assets/730edda4-f9f1-4d0b-baa6-f6d21ce8163b)
 
+![image](https://github.com/user-attachments/assets/16a298e5-fc78-4c21-aeba-a1eb04077c56)
