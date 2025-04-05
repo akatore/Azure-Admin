@@ -203,4 +203,17 @@ Here comes the IMP part,
 
    ![image](https://github.com/user-attachments/assets/717af90b-ed5d-42d0-b170-422caa381813)
 
+Lets select the existing NSGs craeted for the Lab and create+review.
+
+We'll do this same configuration details for two more such VMs for our lab.
+
+NOTE: Ensure use select details in **Network Interface** section 
+ie, :
+- Same Virtual Network(VNet) for all VMs, so that new Subnets under the same Vnet is allocated that is, next sets of IPs will be provided to use for resources
+- NIC should be advances so that you can select the existing NSG.
+- Here we are selecting the NSG created in different Resource Group so that we can later get the NIC's associated to the this existing NSG.
+  
+![image](https://github.com/user-attachments/assets/6222b6e2-557d-4aa7-9e99-19808b1e0e59)
+
+
    
