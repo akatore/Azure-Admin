@@ -293,3 +293,17 @@ Second scenario, in OutBound rule, we are going to create a Deny Internet OutBou
 
 and lets try to access the internet now.
 ![image](https://github.com/user-attachments/assets/c021288a-d30c-40e9-b43c-6d4c0a949b1f)
+
+
+Rule created, and no internet
+
+![image](https://github.com/user-attachments/assets/879d4b69-83df-44f2-a3e5-1d13d1100271)
+![image](https://github.com/user-attachments/assets/3cbda83b-9217-419e-b809-7f1dddd1d149)
+
+![image](https://github.com/user-attachments/assets/d92ae30f-50dc-4eba-b2df-0adff8a0de53)
+
+Lets attache a NIC, and for that we need to craeta a NIC and before that also, we neeed to stop th OS, before attaching the NIC.
+evenso when we tried to attach a NIC we got an error
+
+![image](https://github.com/user-attachments/assets/903613b6-3b6a-43c5-930b-118b90f8c1df)
+![image](https://github.com/user-attachments/assets/f937734b-8305-482a-84da-1705b6bf12f9)
