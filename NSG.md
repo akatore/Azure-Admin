@@ -31,8 +31,13 @@ Associated with
   
 ```
 
-there no resource two which its is associtated with
+theres no resource two which its is associtated with
 ![image](https://github.com/user-attachments/assets/08d87750-3a21-4944-b114-af07f0f18fa5)
+
+look closely we only have these 3 rules in inbound rule, so defauly deny is for all incomming traffic, so if we later try to assign it to a windows 16 VM, we wont be able to access the VM as no Inbond rule is created for RGP connection. Later point of time, we we have all VMs created and attached we'll explictly add one inbound rule to white list traffic comming from Internet or specific whitlisted IPs on RDP ports so to allow access to the VMs.
+
+![image](https://github.com/user-attachments/assets/ee1e87e7-5b03-4ba8-a18c-8770dc608d22)
+
 
  
 ```json
