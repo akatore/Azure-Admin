@@ -29,6 +29,8 @@ Associated with
 0 subnets, 0 network interfaces
   
 ```
+
+there no resource two which its is associtated with
 ![image](https://github.com/user-attachments/assets/08d87750-3a21-4944-b114-af07f0f18fa5)
 
  
@@ -182,3 +184,22 @@ Associated with
     "apiVersion": "2023-09-01"
 }
 ```
+
+Lets creata a VM,
+
+![image](https://github.com/user-attachments/assets/708977af-b4c4-4d0d-a616-965d7bf5cdca)
+
+
+Here comes the IMP part,
+
+1. If we select None in NIC, we'll get VM created but no NIC associtate to NSG, we'll have to associtate NIC manually to the NSG.
+   ![image](https://github.com/user-attachments/assets/2d4898ae-72db-4181-b1b1-eb6630ae8a1c)
+
+2. Here, if we select the basic, we'll get new NSG created for out VM sith default NSG rules associated with our VM's NIC, and below that in inbound rule, you could see RGP port also can be selected in **basic** option
+   ![image](https://github.com/user-attachments/assets/41ac0e77-869c-4f65-a2aa-b63d9ac09d2d)
+
+3. And here, if selected Advanced we can associate NIC to an existing NSG also.
+
+   ![image](https://github.com/user-attachments/assets/717af90b-ed5d-42d0-b170-422caa381813)
+
+   
