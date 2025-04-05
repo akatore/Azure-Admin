@@ -331,3 +331,7 @@ lets start the VM and connect again to check the NIC
 Now we can see that we have two NICs, 
 ![image](https://github.com/user-attachments/assets/d700a79f-28fe-4aad-a184-f913447564cd)
 
+Now delete all the RGs,
+![image](https://github.com/user-attachments/assets/a1a7b3f8-8c58-4f83-afb1-c99a4db52b2d)
+
+
