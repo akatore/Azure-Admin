@@ -217,5 +217,8 @@ ie, :
 
 ![image](https://github.com/user-attachments/assets/b6842d26-df05-42f4-a55a-1619fd4d8339)
 
+**Go and Hit Create:**
 
-   
+![image](https://github.com/user-attachments/assets/6a5f4bf0-c955-422b-ae32-cad0c8ed8c7d)
+
+### DO the same for two others.
