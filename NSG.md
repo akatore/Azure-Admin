@@ -222,3 +222,49 @@ ie, :
 ![image](https://github.com/user-attachments/assets/6a5f4bf0-c955-422b-ae32-cad0c8ed8c7d)
 
 ### DO the same for two others.
+
+Here you can see along with VM creation we got,
+NIC, and a Public IP created, 
+
+The Vnet will be seen created for first VM, and for other 2 this same Vnet will be used (as mentioned in the NOTE.
+
+Resource Created, lets do for others too.
+
+Deployment 2 SS,
+Here you could see that VNet is not created, that means it's using existing Vnet.
+![image](https://github.com/user-attachments/assets/e0331077-2f7e-4f9f-82d3-a2d6e020c473)
+
+in all the created VM you could se the IP allocated to he VM, its just next bit increamented for previous that is 10.0.0.5 which is next after 10.0.0.4 and this is due to same VNET we are using, lets GO! create other VMs and proceed.
+![image](https://github.com/user-attachments/assets/6905b764-3eef-43a1-bb2e-7ee70be50f28)
+
+
+
+![image](https://github.com/user-attachments/assets/7e209335-b672-4d0b-83a5-bfcf47be3141)
+
+ROBOM:
+NI details for 3rd Deployment:
+
+![image](https://github.com/user-attachments/assets/55b5dae2-581c-4f99-9696-7c4e58ed36b7)
+
+
+Here as well only NIC and Public IP is created along with the VM, COOL!
+![image](https://github.com/user-attachments/assets/734b6907-af04-4bf9-87b1-437fd66dab84)
+
+
+Lets refersh! and check the private IPs of each Vms.
+Cool!
+
+![image](https://github.com/user-attachments/assets/1dc72c6e-4c27-4f20-8c81-4b16fad83c00)
+
+Lets click on Any VM, we'll see the same nsg that we selelcted at the time of creation of Vms.
+
+![image](https://github.com/user-attachments/assets/2a9b6805-9169-410a-ba02-564e8570a24a)
+
+
+And that all the NICs are associtated to this NSG, 
+
+![image](https://github.com/user-attachments/assets/e31f8f84-2566-4309-a4b7-f17728edb32c)
+
+![image](https://github.com/user-attachments/assets/1a57b782-1856-4547-ba37-5bbe085558cf)
+
+
