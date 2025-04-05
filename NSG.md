@@ -307,3 +307,27 @@ evenso when we tried to attach a NIC we got an error
 
 ![image](https://github.com/user-attachments/assets/903613b6-3b6a-43c5-930b-118b90f8c1df)
 ![image](https://github.com/user-attachments/assets/f937734b-8305-482a-84da-1705b6bf12f9)
+
+
+The error is that we need to shut down the VM,
+![image](https://github.com/user-attachments/assets/1077752b-9c11-49d2-9f33-26ca30cee557)
+
+Now Stop from the servers also,
+![image](https://github.com/user-attachments/assets/376d04f0-60f0-4256-a183-6dca8aa49d29)
+
+
+Lets try to create a Network Interface now, 
+![image](https://github.com/user-attachments/assets/35d29a9c-61cc-47e2-96ce-22e96c520fb7)
+![image](https://github.com/user-attachments/assets/117be301-71ff-43af-aaeb-2c8b4d3fb54c)
+and click create
+
+now you can see our created NIC is also attached,
+![image](https://github.com/user-attachments/assets/144f637b-b59a-44e8-863b-8a261d5b65e2)
+
+lets start the VM and connect again to check the NIC
+![image](https://github.com/user-attachments/assets/2e84786f-ae5e-49af-857d-785e319211bd)
+
+![image](https://github.com/user-attachments/assets/382ebd91-6ba0-4c0a-9cff-60239caff267)
+Now we can see that we have two NICs, 
+![image](https://github.com/user-attachments/assets/d700a79f-28fe-4aad-a184-f913447564cd)
+
