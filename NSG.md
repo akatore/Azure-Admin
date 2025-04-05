@@ -3,6 +3,7 @@ NSGs are region specific(can be used by different resources or different **resou
 ![image](https://github.com/user-attachments/assets/929e0680-10c2-49de-ae81-a3407086ba70)
 
 
+# **Lab: In a single network, we'll configure VMs from different RG to use NSG created in different RG in a single region.**
 ## Lets Create Two Resource Groups, one for VMs and one for NSGs.
 
 ### NSG-RG
