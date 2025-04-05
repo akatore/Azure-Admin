@@ -280,3 +280,16 @@ Inbound Security rules -> Add rule
 ![image](https://github.com/user-attachments/assets/730edda4-f9f1-4d0b-baa6-f6d21ce8163b)
 
 ![image](https://github.com/user-attachments/assets/16a298e5-fc78-4c21-aeba-a1eb04077c56)
+
+now RDP into one of there server hain do following chnags in server manager so that we can use Internet
+![image](https://github.com/user-attachments/assets/2c18e012-f7c7-436b-9e5f-de023a9688c7)
+lets access the internet.
+![image](https://github.com/user-attachments/assets/df7364c0-f749-496e-8cae-e961fb2e62d2)
+
+---
+
+Second scenario, in OutBound rule, we are going to create a Deny Internet OutBound rule with lower Priority Number.
+![image](https://github.com/user-attachments/assets/8e3753a4-a8c0-4fef-8396-67314c94876d)
+
+and lets try to access the internet now.
+![image](https://github.com/user-attachments/assets/c021288a-d30c-40e9-b43c-6d4c0a949b1f)
