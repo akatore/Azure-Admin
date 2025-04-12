@@ -17,4 +17,4 @@ to segregate the infrastructure.
 
 To create VNet Peering, just have TWO VNets and in setting of one of the VNet click on peering and you'll have to select the Vent to which you want to create connection with.
 
-there two field Remote peering link and local peering link.
+there are two field Remote peering link and local peering link.
